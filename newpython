@@ -1,0 +1,4 @@
+
+S = input("enter name: ")
+l1= list(S)
+print("l1")
